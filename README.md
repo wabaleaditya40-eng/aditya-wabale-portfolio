@@ -21,6 +21,7 @@ My personal portfolio website showcases my:
 
 ### 📸 Portfolio Preview
 
+![Portfolio Screenshot](images/portfolio-screenshot.png)
 ---
 
 ## 🛠️ Technologies Used
